@@ -89,6 +89,12 @@ input, select, textarea {
 	margin-right: 1em;
 }
 
+#wide-article {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 /* Basic */
 
 	@-ms-viewport {
